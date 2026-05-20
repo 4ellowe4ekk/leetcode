@@ -13,14 +13,12 @@ class Solution:
                     chisla[num] = 1
 
         for chislo, x in chisla.items():
-            if x > m or (x == m and chislo < itog):
+
+            if x > m:
                 itog = chislo
                 m = x
 
-        return itog
-            
+            elif x == m:
+                itog = min(chislo, itog)
 
-
-        
-
-                
+        return itog             
