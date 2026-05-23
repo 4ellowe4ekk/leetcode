@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/4ellowe4ekk/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/4ellowe4ekk/leetcode/tree/master/0771-jewels-and-stones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
