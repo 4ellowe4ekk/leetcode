@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/4ellowe4ekk/leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/4ellowe4ekk/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/4ellowe4ekk/leetcode/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/4ellowe4ekk/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
