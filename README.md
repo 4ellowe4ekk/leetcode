@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/4ellowe4ekk/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/4ellowe4ekk/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
