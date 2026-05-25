@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/4ellowe4ekk/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/4ellowe4ekk/leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/4ellowe4ekk/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/4ellowe4ekk/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4ellowe4ekk/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/4ellowe4ekk/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
