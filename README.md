@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/4ellowe4ekk/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4ellowe4ekk/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/4ellowe4ekk/leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/4ellowe4ekk/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/4ellowe4ekk/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3668-restore-finishing-order](https://github.com/4ellowe4ekk/leetcode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
