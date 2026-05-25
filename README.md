@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/4ellowe4ekk/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/4ellowe4ekk/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/4ellowe4ekk/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/4ellowe4ekk/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
