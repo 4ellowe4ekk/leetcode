@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/4ellowe4ekk/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/4ellowe4ekk/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4ellowe4ekk/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/4ellowe4ekk/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Math
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/4ellowe4ekk/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/4ellowe4ekk/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/4ellowe4ekk/leetcode/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
