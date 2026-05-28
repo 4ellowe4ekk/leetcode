@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/4ellowe4ekk/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/4ellowe4ekk/leetcode/tree/master/0771-jewels-and-stones) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
