@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/4ellowe4ekk/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4ellowe4ekk/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/4ellowe4ekk/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/4ellowe4ekk/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/4ellowe4ekk/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/4ellowe4ekk/leetcode/tree/master/0771-jewels-and-stones) |
@@ -47,18 +49,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/4ellowe4ekk/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4ellowe4ekk/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/4ellowe4ekk/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/4ellowe4ekk/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/4ellowe4ekk/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/4ellowe4ekk/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -114,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/4ellowe4ekk/leetcode/tree/master/0344-reverse-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4ellowe4ekk/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
