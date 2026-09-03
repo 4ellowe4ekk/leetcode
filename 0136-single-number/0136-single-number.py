@@ -1,6 +1,6 @@
-class Solution(object):
-    def singleNumber(self, nums):
-
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        
         chisla = {}
 
         if len(nums) == 1:
