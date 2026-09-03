@@ -1,5 +1,5 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         itog = []
         chisla = {}
         dildo = []
@@ -21,4 +21,5 @@ class Solution(object):
         for i in range(k):
             itog.append(dildo[i][1])
         
-        return itog      
+        return itog 
+            
